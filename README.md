@@ -6,8 +6,7 @@ First StandBy Login page
 
 ## Using Angularjs and Bootstrap  and it's Only FrontEnd Now The BackEnd is not implemented yet(Working on it)
 
-Here is An DEMO https://tarektarho.github.io/StandBySolution/
-
+Here is An Live DEMO!!  https://tarektarho.github.io/StandBy/
 
 
 
