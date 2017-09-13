@@ -1,0 +1,11 @@
+﻿a {
+    cursor: pointer;
+}
+
+#logo{
+    height: 153px;
+    width: 110px;
+    float: left;
+    margin-left: -29%;
+
+}
