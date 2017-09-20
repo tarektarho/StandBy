@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿
 (function () {
+=======
+﻿(function () {
+>>>>>>> 74adad02012f24902b122ab681e24bd1f0adcc28
     'use strict';
 
     angular
@@ -49,4 +53,8 @@
         });
     }
 
+<<<<<<< HEAD
 })();
+=======
+})();
+>>>>>>> 74adad02012f24902b122ab681e24bd1f0adcc28

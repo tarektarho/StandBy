@@ -1,5 +1,6 @@
 ﻿a {
     cursor: pointer;
+<<<<<<< HEAD
 
 }
 
@@ -7,3 +8,14 @@ img {
     width: 88px;
 }
 
+=======
+}
+
+#logo{
+    height: 153px;
+    width: 110px;
+    float: left;
+    margin-left: -29%;
+
+}
+>>>>>>> 74adad02012f24902b122ab681e24bd1f0adcc28
